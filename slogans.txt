@@ -5,4 +5,12 @@ Simplicity is a prerequisite for reliability.
 The difference between science and screwing around is writing stuff down.  --Adam Savage
 (Not the ONLY difference... --Joe Levy)
 
+Always code as if the guy who ends up maintaining your code will be a
+violent psychopath who knows where you live.
+
+Any fool can write code that a computer can understand.
+Good programmers write code that humans can understand.
+
+Walking on water and developing software from a specification are easy if both are frozen.
+
 
