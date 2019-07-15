@@ -23,4 +23,6 @@ Any code of your own that you haven’t looked at for six or more months might a
 
 A  problem well stated is a problem half-solved. --Charles Kettering
 
+"Everybody has a testing environment.  Some people are lucky enough to have a totally separate environment to run production in." --unknown
+
 
